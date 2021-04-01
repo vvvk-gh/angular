@@ -21,7 +21,7 @@ ng generate or ng g   # generates new following
 
 ng build              # to build
 ng serve              # Builds and run the app in dev mode of server
-ng serve -0 #         # Opens in the browser
+ng serve -o          # Opens in the browser
 ng test
 
 ```
